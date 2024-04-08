@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\practicandoC\GeneradorDeContraseñas\GeneradorDeContraseñas\bin\Debug\net8.0-windows\GeneradorDeContraseñas.exe
+C:\Users\Usuario\Desktop\practicandoC\GeneradorDeContraseñas\GeneradorDeContraseñas\bin\Debug\net8.0-windows\GeneradorDeContraseñas.deps.json
+C:\Users\Usuario\Desktop\practicandoC\GeneradorDeContraseñas\GeneradorDeContraseñas\bin\Debug\net8.0-windows\GeneradorDeContraseñas.runtimeconfig.json
+C:\Users\Usuario\Desktop\practicandoC\GeneradorDeContraseñas\GeneradorDeContraseñas\bin\Debug\net8.0-windows\GeneradorDeContraseñas.dll
+C:\Users\Usuario\Desktop\practicandoC\GeneradorDeContraseñas\GeneradorDeContraseñas\bin\Debug\net8.0-windows\GeneradorDeContraseñas.pdb
+C:\Users\Usuario\Desktop\practicandoC\GeneradorDeContraseñas\GeneradorDeContraseñas\obj\Debug\net8.0-windows\GeneradorDeContraseñas.Form1.resources
+C:\Users\Usuario\Desktop\practicandoC\GeneradorDeContraseñas\GeneradorDeContraseñas\obj\Debug\net8.0-windows\GeneradorDeContraseñas.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\practicandoC\GeneradorDeContraseñas\GeneradorDeContraseñas\obj\Debug\net8.0-windows\GeneradorDeContraseñas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\practicandoC\GeneradorDeContraseñas\GeneradorDeContraseñas\obj\Debug\net8.0-windows\GeneradorDeContraseñas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\practicandoC\GeneradorDeContraseñas\GeneradorDeContraseñas\obj\Debug\net8.0-windows\GeneradorDeContraseñas.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\practicandoC\GeneradorDeContraseñas\GeneradorDeContraseñas\obj\Debug\net8.0-windows\GeneradorDeContraseñas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\practicandoC\GeneradorDeContraseñas\GeneradorDeContraseñas\obj\Debug\net8.0-windows\GeneradorDeContraseñas.dll
+C:\Users\Usuario\Desktop\practicandoC\GeneradorDeContraseñas\GeneradorDeContraseñas\obj\Debug\net8.0-windows\refint\GeneradorDeContraseñas.dll
+C:\Users\Usuario\Desktop\practicandoC\GeneradorDeContraseñas\GeneradorDeContraseñas\obj\Debug\net8.0-windows\GeneradorDeContraseñas.pdb
+C:\Users\Usuario\Desktop\practicandoC\GeneradorDeContraseñas\GeneradorDeContraseñas\obj\Debug\net8.0-windows\GeneradorDeContraseñas.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\practicandoC\GeneradorDeContraseñas\GeneradorDeContraseñas\obj\Debug\net8.0-windows\ref\GeneradorDeContraseñas.dll
